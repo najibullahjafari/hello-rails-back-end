@@ -29,7 +29,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 BudgetPro<a name="ruby-on-rails-group-project"></a>
+# 📖 Hello rails back-end<a name="ruby-on-rails-group-project"></a>
 
 **Hello rials Back-end** 
 Hello rails Back-end is an application that rails as an API.
