@@ -55,7 +55,7 @@ Hello rails Back-end is an application that rails as an API.
 </details>
 <summary>Front-end</summary>
   <ul>
-    <li><a href="#">React</a></li>
+    <li><a href="https://react.dev/">React</a></li>
   </ul>
 </details>
 
